@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/ippush/ad-hoc/blob/master/FushSample.ipa</string>
+					<string>https://github.com/ippush/ad-hoc/blob/master/FushSample.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
